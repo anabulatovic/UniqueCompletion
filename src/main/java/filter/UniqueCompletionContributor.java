@@ -39,5 +39,5 @@ public class UniqueCompletionContributor extends CompletionContributor {
             });
         }
     }
-    
+
 }
