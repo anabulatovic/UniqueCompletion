@@ -17,6 +17,5 @@
         <completion.contributor
             language="JAVA"
             implementationClass="filter.UniqueCompletionContributor"/>
-
     </extensions>
 </idea-plugin>
