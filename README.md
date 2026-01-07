@@ -1,6 +1,20 @@
 # Unique Completion
 
-**Unique Completion** is a productivity-focused Intellij IDEA plugin that enhances the code completion experience. It filters out variables and constants that have already been used within the current method-call or list declaration.
+[![JetBrains Marketplace](https://img.shields.io/badge/Marketplace-Unique%20Completion-blue)](https://plugins.jetbrains.com/plugin/29639-unique-completion)
+![Version](https://img.shields.io/jetbrains/plugin/v/29639-unique-completion)
+![Downloads](https://img.shields.io/jetbrains/plugin/d/29639-unique-completion)
+
+**Unique Completion** is a productivity-focused IntelliJ IDEA plugin that enhances the code completion experience. It filters out variables and constants that have already been used within the current method-call or list declaration.
+
+## 🚀 Installation
+
+1. Open **Settings/Preferences**
+2. Navigate to **Plugins**
+3. Select the **Marketplace** tab
+4. Search for **"Unique Completion"**
+5. Click **Install**
+
+Alternatively, you can download it directly from the [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/29639-unique-completion).
 
 ## Why use Unique Completion?
 
@@ -17,7 +31,7 @@ This leads to:
 
 * **Instant Filtering:** Suggestions disappear from the autocomplete menu the moment they are added to the list.
 * **Context Awareness:** Analyzes the current `PsiArgumentList` to identify the existing elements.
-* **Universal Java Support:** Works inside any Java method argument list (e. g. `List.of()` or `Set.of()`).
+* **Universal Java Support:** Works inside any Java method argument list (e.g., `List.of()` or `Set.of()`).
 * **Zero Configuration:** Works out-of-the-box with no setup required.
 
 ## Open Source and Contributing
@@ -34,4 +48,3 @@ Distributed under the **Apache 2.0 License**.
 ---
 
 Created by [Ana Bulatović](https://github.com/anabulatovic)
-
