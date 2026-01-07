@@ -6,7 +6,7 @@
 
 **Unique Completion** is a productivity-focused IntelliJ IDEA plugin that enhances the code completion experience. It filters out variables and constants that have already been used within the current method-call or list declaration.
 
-## 🚀 Installation
+## Installation
 
 1. Open **Settings/Preferences**
 2. Navigate to **Plugins**
